@@ -1,5 +1,5 @@
 # ED
-run on KDE bionic (18.04)
+to run on KDE bionic (18.04) or 64 bits arch
 
 ```
 apt install g++-multilib
